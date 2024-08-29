@@ -7,7 +7,7 @@
 
 // your code
 let factorial = 1
-let counter = 3
+let counter = 10
 while (counter > 0) {
     factorial *= counter;
     counter --;
