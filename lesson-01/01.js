@@ -8,5 +8,4 @@ while (counter >= 0) {
     sum =sum + counter;
     counter --;
 }
-console.log(sum);
 
